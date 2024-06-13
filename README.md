@@ -7,7 +7,7 @@ Project consists of a mock security audit of a fictional toy company. Botium Toy
 <h2>Resources Used</h2>
 
 - <b>[Scope, goals, and risk assessment](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)</b> 
-- <b>[Controls and compliance checklist](https://docs.google.com/document/d/1QnzFC7hMR6hbXU3i-oNYPMfTV3FjufBrfP6KO8FQVxQ/edit#heading=h.87tykp1u0l36)</b>
+- <b>[Controls and compliance checklist](https://docs.google.com/document/d/10NoXfyE3ZSiHFqiTE0fINL3xdPvTZq0j0VwnFEM0N3g/template/preview#heading=h.87tykp1u0l36)</b>
 
 <h2>Audit walk-through:</h2>
 
